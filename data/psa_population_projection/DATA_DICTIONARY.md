@@ -1,4 +1,4 @@
-# DATA DICTIONARY — Dataset 5: PSA Projected Population (2020 CPH)
+# Dataset 5: PSA Projected Population (2020 CPH)
 
 Source: Philippine Statistics Authority (PSA)  
 Dataset Title: Projected Population Based on 2020 CPH by Five-Year Age Group and Sex  
