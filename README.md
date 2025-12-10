@@ -17,8 +17,7 @@ The National Capital Region (NCR) is the largest metropolitan area in the Philip
 
 
 ## Policy Overview
-Provide a summary of the policy context, key issues addressed, and the relevance of the project in the selected policy area
-The context of this policy analysis is rooted in the assessment of NCR's decentralization and the ability of NCR cities to provide efficient and quality services anchored in accountability. The underutilization of programmed budgets despite the high fiscal capacity of NCR cities is a highly relevant issue aligned with the recent calls for systemic accountability and the efficient delivery of public goods and services. It also highlights the risks of high discretionary power and monopolizing capacity attributed to the Local Chief Executive (LEC). Effective accountability mechanisms such as
+The context of this policy analysis is rooted in the assessment of NCR's decentralization and the ability of NCR cities to provide efficient and quality services anchored in accountability. The underutilization of programmed budgets despite the high fiscal capacity of NCR cities is a highly relevant issue aligned with the recent calls for systemic accountability and the efficient delivery of public goods and services. It also highlights the risks of high discretionary power and monopolizing capacity attributed to the Local Chief Executive (LEC). Effective accountability mechanisms must be in place to guide the utilization of programmed budgets and ensure the optimal use and delivery of public goods and services. 
 
 ---
 
@@ -32,16 +31,16 @@ The context of this policy analysis is rooted in the assessment of NCR's decentr
 
 
 ## Methodology
-- Data collection through provided github repository and official government websites (BLGF)
-- Descriptive stati
+- Data collection through the provided GitHub repository and official government websites (BLGF)
+- Data visualization using Microsoft Excel 
+- Descriptive statistics
 
 
   ---
 
 
-  ## Insights and Analyses
-  Major findings, insights, analyses, from the project
-
+## Insights and Analyses
+The fiscal paradox of NCR cities raises the questions on accountability and 
 
 ---
 
@@ -54,7 +53,7 @@ No installation is required. All project files (documents, analysis, and visuals
 
 
 ## Data Source(s) Used
-Provided Data Sets
+Provided Data Sets  
 [Bureau of Local Governance and Finance](https://blgf.gov.ph/)
 
   
