@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# THE PARADOX OF NCR: HIGH FISCAL CAPACITY, SUB-OPTIMAL UTILIZATION
 
 ## Overview
 
@@ -24,7 +24,6 @@ Provide a summary of the policy context, key issues addressed, and the relevance
 
 
 ## Technology Stack
-Tools, libraries, platforms, or frameworks used in the project
 - Github
 
 
@@ -32,9 +31,7 @@ Tools, libraries, platforms, or frameworks used in the project
 
 
 ## Methodology
-Steps, approach, and processes in conducting the project
 - Data collection
-- Data cleaning
 - Analytical tools and methods
 - Frameworks or models applied
 
@@ -57,5 +54,7 @@ No installation is required. All project files (documents, analysis, and visuals
 
 
 ## Data Source(s) Used
+Provided Data Sets
+Bureau of Local Governance and Finance
 
   
